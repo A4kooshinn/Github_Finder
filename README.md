@@ -6,7 +6,7 @@ A clean and responsive React.js application that allows users to search for GitH
 
 ## 🚀 Live Demo
 
-👉 [github-finder.vercel.app](https://github-finder.vercel.app)
+👉 [github-finder.vercel.app](https://github-finnder.vercel.app)
 
 ---
 
