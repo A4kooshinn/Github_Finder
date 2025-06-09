@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import UserCard from "./components/userCard";
-
+import Card from "./components/Card";
 const App = () => {
   return (
     <div className="mx-auto max-w-4xl p-4 mt-10">
@@ -9,7 +8,7 @@ const App = () => {
       </h1>
       {/* Importing and using the Header component */}
 
-      <UserCard />
+      <Card />
     </div>
   );
 };

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-const UserCard = () => {
+const Card = () => {
   const [input, setInput] = useState("");
   const [userData, setUserData] = useState(null);
   const [loading, setLoading] = useState(false);
@@ -96,4 +96,4 @@ const UserCard = () => {
     </>
   );
 };
-export default UserCard;
+export default Card;
